@@ -1,0 +1,91 @@
+{
+    "HIV": {
+        "symptoms": ["fever", "fatigue", "swollen lymph nodes", "rash", "muscle aches"],
+        "advice": "Seek medical testing and start antiretroviral therapy as early as possible."
+    },
+    "AIDS": {
+        "symptoms": ["chronic fatigue", "rapid weight loss", "prolonged fever", "night sweats", "frequent infections"],
+        "advice": "Urgent medical care required. Ensure adherence to treatment and monitor opportunistic infections."
+    },
+    "TB": {
+        "symptoms": ["persistent cough", "blood in sputum", "fever", "night sweats", "weight loss"],
+        "advice": "Visit a clinic for sputum test and chest X-ray. Begin anti-TB medication immediately."
+    },
+    "Malaria": {
+        "symptoms": ["fever", "chills", "sweating", "headache", "nausea"],
+        "advice": "Seek immediate medical attention for blood testing and antimalarial drugs."
+    },
+    "Cancer": {
+        "symptoms": ["unexplained weight loss", "fatigue", "pain", "lumps", "skin changes"],
+        "advice": "Consult a specialist for diagnostic tests like biopsy or imaging scans."
+    },
+    "Hypertension": {
+        "symptoms": ["headache", "blurred vision", "chest pain", "shortness of breath"],
+        "advice": "Monitor blood pressure and consult a doctor for antihypertensive medications."
+    },
+    "Stroke": {
+        "symptoms": ["sudden numbness", "confusion", "trouble speaking", "vision problems", "loss of balance"],
+        "advice": "Call emergency services immediately. This is a medical emergency."
+    },
+    "Obesity": {
+        "symptoms": ["high BMI", "fatigue", "joint pain", "snoring"],
+        "advice": "Seek guidance on diet and exercise; may require endocrine evaluation."
+    },
+    "Diabetes": {
+        "symptoms": ["frequent urination", "increased thirst", "fatigue", "blurred vision"],
+        "advice": "Check blood sugar levels and start dietary and/or insulin therapy."
+    },
+    "Pregnancy": {
+        "symptoms": ["missed period", "nausea", "breast tenderness", "fatigue"],
+        "advice": "Visit a clinic for confirmation and prenatal care."
+    },
+    "Measles": {
+        "symptoms": ["rash", "fever", "cough", "runny nose", "red eyes"],
+        "advice": "Isolate the patient and visit a clinic for supportive care and monitoring."
+    },
+    "Chickenpox": {
+        "symptoms": ["itchy rash", "fever", "fatigue", "loss of appetite"],
+        "advice": "Stay home to avoid spread. Take antihistamines and calamine lotion."
+    },
+    "Epilepsy": {
+        "symptoms": ["seizures", "confusion", "loss of awareness", "staring spells"],
+        "advice": "Seek neurological evaluation and start anti-epileptic medication."
+    },
+    "Corona Virus": {
+        "symptoms": ["fever", "cough", "shortness of breath", "loss of smell", "fatigue"],
+        "advice": "Test for COVID-19. Isolate and monitor symptoms. Seek care if breathing difficulty occurs."
+    },
+    "Lactose Intolerance": {
+        "symptoms": ["bloating", "diarrhea", "gas", "abdominal pain after dairy"],
+        "advice": "Avoid dairy or take lactase supplements. Consult a dietitian if needed."
+    },
+    "Allergic Reactions": {
+        "symptoms": ["rash", "itching", "swelling", "shortness of breath", "anaphylaxis"],
+        "advice": "Take antihistamines or epinephrine (EpiPen) for severe reactions. Seek emergency help if symptoms escalate."
+    },
+    "Heart Attack": {
+        "symptoms": ["chest pain", "shortness of breath", "nausea", "sweating", "arm/jaw pain"],
+        "advice": "Call emergency services immediately. Begin CPR if needed."
+    },
+    "Gout": {
+        "symptoms": ["joint pain", "swelling", "redness", "intense pain in big toe"],
+        "advice": "Reduce purine-rich foods, hydrate, and take anti-inflammatory meds."
+    },
+    "Sinusitis": {
+        "symptoms": ["facial pain", "nasal congestion", "headache", "loss of smell"],
+        "advice": "Use nasal sprays, warm compress, and consult a doctor if symptoms persist."
+    },
+    "Flu": {
+        "symptoms": ["fever", "cough", "sore throat", "muscle aches", "fatigue"],
+        "advice": "Rest, hydrate, and take antipyretics. Visit a clinic if breathing worsens."
+    },
+    "Endometriosis": {
+        "symptoms": ["pelvic pain", "painful periods", "infertility", "fatigue"],
+        "advice": "Consult a gynecologist. Hormonal therapy or surgery may be needed."
+    },
+    "Blindness": {
+        "symptoms": ["vision loss", "blurry vision", "inability to see"],
+        "advice": "Seek urgent ophthalmic care to determine cause and potential treatment."
+    }
+}
+
