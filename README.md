@@ -1,9 +1,9 @@
-**# 🏥 Smart Queue Management System**
+# 🏥 Smart Queue Management System
 
 A modern digital solution designed to streamline patient queue management in public hospitals and clinics. Built using **FastAPI**, **Python**, and **TypeScript**, the system improves service efficiency, reduces overcrowding, and enhances the overall patient experience in underserved healthcare environments.
 
-**## 🚀 Features
-**
+## 🚀 Features
+
 - 📱 Mobile-friendly frontend built with modern web technologies
 - ⚙️ Backend powered by FastAPI with a clean RESTful API
 - 🕒 Real-time queue updates and appointment tracking
@@ -11,7 +11,7 @@ A modern digital solution designed to streamline patient queue management in pub
 - 📊 Admin dashboard for monitoring queue statistics and patient flow
 - 🌍 Designed for scalability in clinics across South Africa
 
-**## 🛠️ Tech Stack**
+## 🛠️ Tech Stack
 
 | Frontend       | Backend     | Other         |
 |----------------|-------------|---------------|
@@ -19,18 +19,19 @@ A modern digital solution designed to streamline patient queue management in pub
 | React (or similar) | FastAPI      | REST API       |
 | HTML/CSS       | SQLite / PostgreSQL | Docker (optional) |
 
-**## 📁 Project Structure**
+## 📁 Project Structure
 
+```
 smart-queue-management-system/
-├── api/ # FastAPI backend
-├── frontend/ # Frontend application (TypeScript)
-├── tests/ # Unit & integration tests
-├── main.py # Entry point
+├── api/               # FastAPI backend
+├── frontend/          # Frontend application (TypeScript)
+├── tests/             # Unit & integration tests
+├── main.py            # Entry point
 ├── README.md
 └── .gitignore
+```
 
-
-**## 📦 Installation**
+## 📦 Installation
 
 ```bash
 # Clone the repository
@@ -46,12 +47,16 @@ pip install -r api/requirements.txt
 
 # Run FastAPI backend
 uvicorn main:app --reload
+```
 
-**## 🧪 Running Tests**
+## 🧪 Running Tests
+
+```bash
 pytest tests/
+```
 
-**## 📈 Future Improvements
-**
+## 📈 Future Improvements
+
 - SMS/Email Notifications for appointment updates
 - Queue prioritization for elderly, disabled, or emergency patients
 - Multilingual UI for broader accessibility
@@ -60,4 +65,5 @@ pytest tests/
 - Offline-first capability for low-connectivity environments
 - Analytics dashboard for healthcare administrators
 - Role-based permissions and access control
+
 
